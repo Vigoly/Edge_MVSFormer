@@ -1,0 +1,1 @@
+The model is proposed on the basis of TransMVSNet, with a special focus on improving the accuracy of plant leaf edge reconstruction. The relevant plant dataset is publicly available at https://drive.google.com/drive/folders/10IbBre_qm8rBeKD0aI56Q5P-FsqMPKUF?usp=sharing.
